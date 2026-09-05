@@ -12,19 +12,23 @@ namespace ADV03
 
             #region Exercise01 
 
-            StudentGradeManager.Run();
-            Console.WriteLine();
+            //StudentGradeManager.Run();
+            //Console.WriteLine("***************************************************");
             #endregion
 
             #region Exercise02
-            Leaderboard.Run();
-            Console.WriteLine();
+            //Leaderboard.Run();
+            //Console.WriteLine("***************************************************");
 
             #endregion
 
             #region Exercise03
-            PhoneBook.Run();
-            Console.WriteLine();
+            //PhoneBook.Run();
+            //Console.WriteLine("***************************************************");
+            #endregion
+
+            #region Exercise04
+            //UniqueEmailValidator.Run();
             #endregion
         }
     }
