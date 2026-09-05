@@ -21,6 +21,11 @@ namespace ADV03
             Console.WriteLine();
 
             #endregion
+
+            #region Exercise03
+            PhoneBook.Run();
+            Console.WriteLine();
+            #endregion
         }
     }
 }
