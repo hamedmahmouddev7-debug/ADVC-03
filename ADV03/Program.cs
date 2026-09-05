@@ -12,6 +12,13 @@ namespace ADV03
 
             #region Exercise01 
 
+            StudentGradeManager.Run();
+            Console.WriteLine();
+            #endregion
+
+            #region Exercise02
+            Leaderboard.Run();
+            Console.WriteLine();
 
             #endregion
         }
